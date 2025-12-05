@@ -5,3 +5,7 @@
 ### قائمة
 
 [ماين كرافت](https://github.com/YasserNull/YnlGAT/blob/main/ماين_كرافت/ماين_كرافت.md)
+
+### ترخيص المشروع
+
+[غنو جي بي إل ثلاثة](LICENSE)
