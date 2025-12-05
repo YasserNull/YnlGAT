@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "@YasserNull ﻝَﻧ ﺮﺳﺎﻳ ﺮﻳﻮﻄﺗ ﻦﻣ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻐﻟﺍ ﺩﻮﻣ",
+        "name": "ﺔﻴﺑﺮﻌﻟﺍ ﺔﻐﻟﺍ",
+        "uuid": "fc216e63-5091-465c-b93c-c2cbfd9c5ddd",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "@YasserNull ﻝَﻧ ﺮﺳﺎﻳ ﺮﻳﻮﻄﺗ ﻦﻣ ﺔﻴﺑﺮﻌﻟﺍ ﺔﻐﻟﺍ ﺩﻮﻣ",
+            "type": "resources",
+            "uuid": "d05b0b17-a7ff-4201-b4e8-d993bde4819c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
